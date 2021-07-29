@@ -1,0 +1,12 @@
+div{
+    padding-top: 20px;
+    margin-left: 30%;
+}
+label {
+    cursor: pointer;
+}
+
+textarea{
+    width:50%;
+    margin-top:15px;
+}
