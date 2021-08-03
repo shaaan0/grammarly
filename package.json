@@ -1,0 +1,19 @@
+{
+  "name": "grammarly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaaan0/spellCheck.git"
+  },
+  "author": "Sudipta SIngh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaaan0/spellCheck/issues"
+  },
+  "homepage": "https://github.com/shaaan0/spellCheck#readme"
+}
